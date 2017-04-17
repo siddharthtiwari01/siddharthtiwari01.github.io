@@ -62,8 +62,8 @@
                 this._scrollable.resize()
             },
             _displayCredits: function() {
-                i.browser.webkit && (console.log("%c蕰蕵岽ナ樖旓笌", "color: #A89E8F; font-size: 54px; font-family: courier new; line-height: 50px;"),
-                console.log("%cI'm watching you.", "color: #A89E8F; font-size: 17px"),
+                i.browser.webkit && (console.log("Hello, There!"),
+                console.log("%cHow Do You do?.", "color: #A89E8F; font-size: 17px"),
                 console.log(""))
             },
             _onChangeEntry: function(t, e) {
